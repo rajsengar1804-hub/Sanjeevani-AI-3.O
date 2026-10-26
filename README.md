@@ -376,11 +376,7 @@ Sanjeevani AI is a safety-support project and should not be treated as a replace
 - Evaluate detection accuracy using documented datasets and controlled tests.
 - Add automated unit, integration, and end-to-end testing.
 
-## 📄 License
 
-This project is distributed under the license specified in the repository's `LICENSE` file.
-
-If the project uses the MIT License, include the complete MIT license text and the appropriate copyright holder and year. Do not describe the project as MIT-licensed until that license has been selected and added.
 
 ---
 
